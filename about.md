@@ -30,4 +30,4 @@ Not necessarily and not as a first option. Rzilla would like to be a point of co
 
 ### Who's working on Rzilla
 
-Rzilla is the brainchild of Antonio Piccolboni, a former developer on the RHadoop project and main author of the rmr2 package. Antonio is an experienced consultant and is [available](mailto:antonio@piccolboni.info) for big data/data science related projects. Also check the contributions to various [rzilla repos](https://github.com/rzilla)
+Rzilla is the brainchild of Antonio Piccolboni, a former developer on the RHadoop project and main author of the rmr2 package. Antonio is an experienced consultant and is [available](mailto:antonio@piccolboni.info) for big data/data science related projects. Also check the contributions to various [rzilla repos](https://github.com/rzilla).
