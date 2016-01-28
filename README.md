@@ -1,0 +1,1 @@
+This is the repo for the content of the rzilla.org website. Issues submitted here should be about the content of the website or the wiki. For individual projects, please file issues with each project.
