@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rzilla</title>
+    <description>A site for R, big data and open source practitioners
+</description>
+    <link>http://rzilla.org/</link>
+    <atom:link href="http://rzilla.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 09 Mar 2016 17:40:31 -0800</pubDate>
+    <lastBuildDate>Wed, 09 Mar 2016 17:40:31 -0800</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Tidyr goes big</title>
+        <description>&lt;p&gt;Unlike dplyr, tidyr never had a system of backends. But big data needs tidying as much as small data. So I am happy to announce that the new package &lt;a href=&quot;https://github.com/rzilla/tidyr.big&quot;&gt;tidyr.big&lt;/a&gt; provides the first two backends for tidyr, Hive and SparkSQL. May your big data be squeaky tidy from now on. It’s still experimental software: check it out with a grain of salt.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 09 Mar 2016 17:36:59 -0800</pubDate>
+        <link>http://rzilla.org/2016/03/09/tidyr-goes-big.html</link>
+        <guid isPermaLink="true">http://rzilla.org/2016/03/09/tidyr-goes-big.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Rzilla is for all R, big data and open source practitioners</title>
+        <description>&lt;p&gt;Hello everyone! &lt;a href=&quot;http://piccolboni.info&quot;&gt;I&lt;/a&gt; am happy to announce the creation of Rzilla, a resource for R users of big data and open source software. As of today, Rzilla includes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;a &lt;a href=&quot;https://groups.google.com/forum/#!forum/rzilla&quot;&gt;forum&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;a &lt;a href=&quot;https://github.con/rzilla&quot;&gt;github organization&lt;/a&gt; with a number of useful repos&lt;/li&gt;
+  &lt;li&gt;a &lt;a href=&quot;https://archive.rzilla.org&quot;&gt;package archive&lt;/a&gt; to facilitate the distribution of R packages.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The packages currently hosted are &lt;a href=&quot;http://github.com/rzilla/rmr2&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;rmr2&lt;/code&gt;&lt;/a&gt; (mapreduce in R), &lt;a href=&quot;http://github.com/rzilla/dplyr.spark.hive&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;dplyr.spark.hive&lt;/code&gt;&lt;/a&gt; (&lt;code class=&quot;highlighter-rouge&quot;&gt;dplyr&lt;/code&gt; backend for Spark and Hive) and &lt;a href=&quot;http://github.com/rzilla/quickcheck&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;quickcheck&lt;/code&gt;&lt;/a&gt; (randomized testing). Such selection is simple to explain. &lt;code class=&quot;highlighter-rouge&quot;&gt;rmr2&lt;/code&gt; is by far the runaway success among the RHadoop packages with more than 100K downloads in a single release and hasn’t received any loving commits since March 2015. I also know it in detail as I have written most of the code. &lt;code class=&quot;highlighter-rouge&quot;&gt;dplyr.spark.hive&lt;/code&gt; is under active development and combines the simplicity of &lt;code class=&quot;highlighter-rouge&quot;&gt;dplyr&lt;/code&gt; with the power of two big-data backends, Hive and Spark SQL. &lt;code class=&quot;highlighter-rouge&quot;&gt;quickcheck&lt;/code&gt; is needed for running tests for the other two, but it is a general testing package for any R developer to use. Rzilla is work in progress. Your participation and help is needed!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Jan 2016 00:00:00 -0800</pubDate>
+        <link>http://rzilla.org/2016/01/27/rzilla-is-for-all-rbig-dataopen-source-practitioners.html</link>
+        <guid isPermaLink="true">http://rzilla.org/2016/01/27/rzilla-is-for-all-rbig-dataopen-source-practitioners.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
