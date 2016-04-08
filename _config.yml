@@ -9,7 +9,7 @@
 title: Rzilla
 email: rzilla@piccolboni.info
 description: > # this means to ignore newlines until "baseurl:"
-  A site for R, big data and open source practitioners
+  A site for practitioners of R, big data and open source.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://rzilla.org" # the base hostname & protocol for your site
 twitter_username: rzillaproj
