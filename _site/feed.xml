@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rzilla</title>
-    <description>A site for R, big data and open source practitioners
+    <description>A site for practitioners of R, big data and open source.
 </description>
     <link>http://rzilla.org/</link>
     <atom:link href="http://rzilla.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Mar 2016 17:40:31 -0800</pubDate>
-    <lastBuildDate>Wed, 09 Mar 2016 17:40:31 -0800</lastBuildDate>
+    <pubDate>Thu, 07 Apr 2016 21:56:31 -0700</pubDate>
+    <lastBuildDate>Thu, 07 Apr 2016 21:56:31 -0700</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
