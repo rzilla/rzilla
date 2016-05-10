@@ -17,3 +17,7 @@ github_username:  rzilla
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
